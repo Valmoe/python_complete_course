@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83c9ac0a-0910-456b-b97f-e701c2b09431" name="Changes" comment="Lessons part 1">
-      <change afterPath="$PROJECT_DIR$/compare_values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string_compare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while_loop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logical_operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/logical_operators.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +28,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Valmoe&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Valmoe/python_complete_course.git&quot;,
+    &quot;accountId&quot;: &quot;52ab9bda-926f-43e1-bbc0-07928dd54eab&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2iEMTEUpDnisSZc4DvNLNyejEMk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -54,6 +64,7 @@
     "Python.string_compare.executor": "Run",
     "Python.strings.executor": "Run",
     "Python.var_1.executor": "Run",
+    "Python.while_loop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.keymap"
@@ -91,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719058082129</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lessons part 1">
+      <option name="closed" value="true" />
+      <created>1719147161160</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719147161160</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
